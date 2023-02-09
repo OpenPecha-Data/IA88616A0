@@ -1,0 +1,16 @@
+id: IA88616A0
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:40:38.123004
+last_modified: 2023-02-09 14:40:38.123096
+source_metadata:
+  title: 'BA: Daśabhūmikasūtra'
+  language: zh
+bases:
+  '8247':
+    base_file: 8247.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
